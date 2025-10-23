@@ -11,10 +11,6 @@ A React + Vite frontend mimicking a DEX, supporting 7 chains (Ethereum, BNB Chai
 - Configurable wallet address for transactions
 - Production-ready build (`dist/` folder)
 
-## Demo
-[Live Demo on GitHub Pages](https://username.github.io/crypto-swap-frontend-for-sale)
-![Screenshot](path/to/screenshot.png)
-
 ## Setup Guide
 1. Install Node.js (v20.x.x) from [nodejs.org](https://nodejs.org).
 2. Unzip `Crypto-Swap.zip`.
